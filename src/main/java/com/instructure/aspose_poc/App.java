@@ -1,7 +1,6 @@
 package com.instructure.aspose_poc;
 
 import com.aspose.words.Document;
-import com.aspose.words.Document;
 
 public class App {
     public static void convertWord(String filename) {
